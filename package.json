@@ -1,5 +1,6 @@
 {
   "name": "tokenlabevents",
+<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -43,5 +44,27 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+=======
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.9.1",
+    "nodemon": "^3.1.9"
+>>>>>>> 61055f6bc46844869c2ecfc0c6baf54dc5479e1b
   }
 }
